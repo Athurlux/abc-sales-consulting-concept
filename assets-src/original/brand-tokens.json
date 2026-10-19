@@ -1,0 +1,30 @@
+{
+  "colors": {
+    "ink": "#182229",
+    "ivory": "#F6F2E9",
+    "vermilion": "#B93624",
+    "muted": "#626660",
+    "line": "#D8D5CC"
+  },
+  "typography": {
+    "headings": "Manrope / sans-serif, 650\u2013800",
+    "body": "Inter / sans-serif, 400\u2013600",
+    "note": "Suggestions only; font binaries not included. Wordmark outlines are self-contained."
+  },
+  "motion": {
+    "reveal": "opacity + translateY 18\u201332px, 0.55\u20130.8s",
+    "stagger": "0.06\u20130.1s",
+    "reducedMotion": "No pinned scenes, parallax or required transitions",
+    "performance": "Transform and opacity only; avoid scroll-jacking. No WebGL required."
+  },
+  "hero": {
+    "headline": [
+      "Build the people.",
+      "Strengthen the process.",
+      "Grow the business."
+    ],
+    "primaryCTA": "Explore programmes",
+    "secondaryCTA": "Discuss your team\u2019s needs",
+    "note": "Proposed concept copy, not an official ABC slogan."
+  }
+}

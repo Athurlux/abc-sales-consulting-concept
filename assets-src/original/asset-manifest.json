@@ -1,0 +1,374 @@
+{
+  "date": "2026-10-19",
+  "concept": true,
+  "image_metadata": [
+    {
+      "file": "images/hero-desktop.webp",
+      "width": 1536,
+      "height": 1024,
+      "kind": "AI-generated illustrative concept image",
+      "alt": "hero desktop",
+      "prompt": "Wide landscape editorial campaign photograph for ABC sales consulting concept. Contemporary Kampala African business workshop, three confident Black East African professionals discussing a proposal at an oak table, right half composition, left 45 percent clean warm ivory plaster wall negative space for live website headline. Deep ink suits, subtle vermilion notebook, warm daylight, authentic expressions, premium commercial photography, no text no logos no charts. Landscape 1536x1024.",
+      "mobile_focal_point": "65% 50%"
+    },
+    {
+      "file": "images/hero-mobile.webp",
+      "width": 1024,
+      "height": 1536,
+      "kind": "AI-generated illustrative concept image",
+      "alt": "hero mobile",
+      "prompt": "Portrait editorial campaign photograph, confident Black East African woman sales professional standing holding plain vermilion notebook, contemporary Kampala office warm ivory plaster and dark window frames, subject in lower two thirds with generous clean wall above for HTML headline, daylight premium magazine photography, no text no logo. Vertical 1024x1536.",
+      "mobile_focal_point": "50% 58%"
+    },
+    {
+      "file": "images/sales-training.webp",
+      "width": 1536,
+      "height": 1024,
+      "kind": "AI-generated illustrative concept image",
+      "alt": "sales training",
+      "prompt": "Landscape editorial photograph of hands-on sales training in bright contemporary Kampala meeting room. Six Black East African adult professionals, female facilitator listening as participant rehearses pitch, natural candid expressions, ivory walls ink clothing small vermilion accents, notebooks and water glasses, realistic anatomy, no readable text no logos, premium natural commercial photography.",
+      "mobile_focal_point": "50% 50%"
+    },
+    {
+      "file": "images/executive-coaching.webp",
+      "width": 1536,
+      "height": 1024,
+      "kind": "AI-generated illustrative concept image",
+      "alt": "executive coaching",
+      "prompt": "Landscape premium editorial photograph, Black East African senior male executive and Black female coach having attentive one-to-one discussion in quiet contemporary office, seated opposite at oak desk, natural daylight, warm ivory deep ink and subtle vermilion, believable candid moment, no logos or readable text.",
+      "mobile_focal_point": "50% 50%"
+    },
+    {
+      "file": "images/sales-strategy.webp",
+      "width": 1536,
+      "height": 1024,
+      "kind": "AI-generated illustrative concept image",
+      "alt": "sales strategy",
+      "prompt": "Landscape premium editorial photograph of four Black East African business leaders planning around oak boardroom table in Kampala, overhead oblique view, hands organizing blank cards and plain notebooks, no legible documents or numeric charts, ivory background ink clothing vermilion accents, realistic candid commercial photography.",
+      "mobile_focal_point": "50% 50%"
+    },
+    {
+      "file": "images/performance-audit.webp",
+      "width": 1536,
+      "height": 1024,
+      "kind": "AI-generated illustrative concept image",
+      "alt": "performance audit",
+      "prompt": "Landscape editorial close-up of Black East African consultant reviewing documents alongside colleague, thoughtfully pointing to neutral unlabeled abstract printed blocks with no numbers or readable text, bright ivory office oak desk vermilion folder, premium authentic commercial photography, no fabricated dashboard.",
+      "mobile_focal_point": "50% 50%"
+    },
+    {
+      "file": "images/recruitment.webp",
+      "width": 1536,
+      "height": 1024,
+      "kind": "AI-generated illustrative concept image",
+      "alt": "recruitment",
+      "prompt": "Landscape editorial photograph of professional interview in contemporary Kampala office, Black East African woman candidate in foreground speaking to two welcoming Black East African interviewers across oak desk, ink ivory subtle vermilion palette, genuine expressions natural daylight, no logos readable text or visible personal data.",
+      "mobile_focal_point": "50% 50%"
+    },
+    {
+      "file": "images/launch-lab.webp",
+      "width": 1536,
+      "height": 1024,
+      "kind": "AI-generated illustrative concept image",
+      "alt": "launch lab",
+      "prompt": "Landscape premium editorial photograph of four Black East African young adults aged 19-20 collaborating on a pitch in sunny modern Kampala learning studio, casual smart clothing, warm ivory walls vermilion stationery, enthusiastic focused faces, authentic not staged corporate handshake, no readable text logos or children.",
+      "mobile_focal_point": "50% 50%"
+    },
+    {
+      "file": "images/programme-still-life.webp",
+      "width": 1536,
+      "height": 1024,
+      "kind": "AI-generated illustrative concept image",
+      "alt": "programme still life",
+      "prompt": "Landscape premium studio product photograph, unbranded ivory workbook blank cover, vermilion cloth notebook, dark ink pen and three geometric ascending stone blocks on warm ivory background, crisp sunlight architectural shadows, lots of negative space, tactile luxury education campaign, no lettering logos numbers.",
+      "mobile_focal_point": "50% 50%"
+    },
+    {
+      "file": "images/growth-sculpture.webp",
+      "width": 1254,
+      "height": 1254,
+      "kind": "AI-generated illustrative concept image",
+      "alt": "growth sculpture",
+      "prompt": "Square premium 3D studio render of three solid architectural ascending steps, warm ivory mineral stone with one vermilion vertical face and deep ink inset, elegant sculptural symbol of progression, soft warm ivory seamless backdrop, refined realistic shadows, no arrows charts text logo or people. Web campaign supporting artwork.",
+      "mobile_focal_point": "50% 50%"
+    }
+  ],
+  "files": [
+    {
+      "file": "ASSET_INDEX.html",
+      "bytes": 4204,
+      "sha256": "245593d9a71bd92d651e566ed785c6a79afa6f8bdeba9b12a87eae3bce1506e0"
+    },
+    {
+      "file": "CONTACT_SHEET.jpg",
+      "bytes": 370398,
+      "sha256": "d91a15cfc4169e890b2b94f13372b374866e819efc89430eb5b4620e5c9d7183",
+      "width": 2400,
+      "height": 720
+    },
+    {
+      "file": "README_START_HERE.md",
+      "bytes": 1290,
+      "sha256": "1def03c8b9d21849eaf5ae0d242ce31cbbf4d89ca3e09ce839532e7b95075531"
+    },
+    {
+      "file": "brand-tokens.json",
+      "bytes": 936,
+      "sha256": "584ff8911e24e87f6a1fa0a72f76b73e223ad667143a7ce17e961dac4f2cd0ae"
+    },
+    {
+      "file": "branding/favicon-192.png",
+      "bytes": 2403,
+      "sha256": "d6b1c5939e341c01ca588325c892b178093cf0e666ef03d5ee51cf544fe84118",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "file": "branding/favicon.svg",
+      "bytes": 317,
+      "sha256": "2780c5dfe3bdc719453233641021038ba0f7e0903bb783339c85703ff640211d"
+    },
+    {
+      "file": "branding/logo-ink.svg",
+      "bytes": 5901,
+      "sha256": "6fe3543b57910e5a681b6fc678b613101de198d7c4f2cf9b4a9bbbfbf0b13317"
+    },
+    {
+      "file": "branding/logo-ivory.svg",
+      "bytes": 5901,
+      "sha256": "9ef530be0a7c1f4bc1dc774e5f102eb8142ce278655aa831dc2a61fe6b45602e"
+    },
+    {
+      "file": "branding/logo-mono.svg",
+      "bytes": 5901,
+      "sha256": "4e5e4f836b213f346ca930664237454c476f6e893f2e83030ff7840e0767810e"
+    },
+    {
+      "file": "branding/mark-vermilion.svg",
+      "bytes": 258,
+      "sha256": "7073a1cd19f6777f5d8e3cd03e16396405d719d6271d8f8c8f290a9a03eb9e65"
+    },
+    {
+      "file": "branding/step-pattern.svg",
+      "bytes": 704,
+      "sha256": "caed81f5204174e1ba3a8fd6f331de8573c397e1ae5a290ef00841e1bad2caab"
+    },
+    {
+      "file": "guides/ART_DIRECTION_AND_MOTION.md",
+      "bytes": 3407,
+      "sha256": "4e06d8db20a04fc4db23bec64dfe23453d2eaf154af930bb0ebe02bee20da3de"
+    },
+    {
+      "file": "guides/CONTENT_REGISTER.md",
+      "bytes": 2911,
+      "sha256": "a57e371945aeabdd80945f3ff476eed26dac91455e52fae36503204825da03d5"
+    },
+    {
+      "file": "guides/GENERATION_PROMPTS.json",
+      "bytes": 4071,
+      "sha256": "e4bbd7c1e8692ed701931626788c2bad481913fbea4c57b79d29991ad49dc027"
+    },
+    {
+      "file": "images/executive-coaching.webp",
+      "bytes": 209778,
+      "sha256": "950df903fa66f445eae2cb5a786051a29ac610d32a35aefe050614e757ebe47f",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "images/growth-sculpture.webp",
+      "bytes": 179204,
+      "sha256": "f9700960f16e4693b9bcff28e81ab411d5d4f0234e7108166eea400f1c416668",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "file": "images/hero-desktop.webp",
+      "bytes": 223908,
+      "sha256": "cd034ee144bfa09186bbe1fa13f56fe7b41fc35bc120bed18a4a7f18007d3eae",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "images/hero-mobile.webp",
+      "bytes": 175092,
+      "sha256": "ad1a52725c1b7b9949a21e9a4338217ea1894842d1cf5554cebdfaaa98ecd8ff",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "images/launch-lab.webp",
+      "bytes": 294930,
+      "sha256": "ef27fc2ede9ab6983d2f3bdb4ee71280256b3d671a27cde88a52ca02c8accf46",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "images/performance-audit.webp",
+      "bytes": 216760,
+      "sha256": "9efb6a49938beb468e05be9074b3d574c3dd6f22fa92b331a90c8209215c8fe3",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "images/programme-still-life.webp",
+      "bytes": 236374,
+      "sha256": "70aac58512587f63e149c5515b94d1a781482c11f1c26e3d21c992e0b3d97410",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "images/recruitment.webp",
+      "bytes": 171606,
+      "sha256": "eba847d28af5e84a303c61c4716b6a907214a519e3392b81b539eac327cc2066",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "images/sales-strategy.webp",
+      "bytes": 237330,
+      "sha256": "12c979942eedc79636ee362c604379f130ae6fc7aee7b54abdba8ea1b3a95c50",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "images/sales-training.webp",
+      "bytes": 211758,
+      "sha256": "af221345e4ad3e67f03c0d859abe7210c6c30582c4ab10495410614b1722a454",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "images/small/executive-coaching.webp",
+      "bytes": 47736,
+      "sha256": "b95b53f029696a947124424e67ed7f993f2516355d4222f300ff435262493e37",
+      "width": 768,
+      "height": 512
+    },
+    {
+      "file": "images/small/growth-sculpture.webp",
+      "bytes": 25950,
+      "sha256": "f7a7f55da007de86d1a6b8ff132f61dd6c7983a462b7123278bf59e000b766f3",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "file": "images/small/hero-desktop.webp",
+      "bytes": 36872,
+      "sha256": "59b914b855a75d367ca979ac255d4b2be3eef1eb847352273a77139bf767da79",
+      "width": 768,
+      "height": 512
+    },
+    {
+      "file": "images/small/hero-mobile.webp",
+      "bytes": 44438,
+      "sha256": "d6ed3d5acad80d23398505f5b7bd3996c4e1b4e3cb674b4cf0d4ed601dd0247e",
+      "width": 640,
+      "height": 960
+    },
+    {
+      "file": "images/small/launch-lab.webp",
+      "bytes": 64854,
+      "sha256": "56f4c8a28901b3815d0a5f706cb243766ed55ef05deae4f58c8589d5b3890d58",
+      "width": 768,
+      "height": 512
+    },
+    {
+      "file": "images/small/performance-audit.webp",
+      "bytes": 38206,
+      "sha256": "5e474b0ea081ed3d04ff1879fca1489a31a7bc4f7e039db195aac250cf1a804a",
+      "width": 768,
+      "height": 512
+    },
+    {
+      "file": "images/small/programme-still-life.webp",
+      "bytes": 20062,
+      "sha256": "cdd4dfb755e33afe30c8d363460d9e3b73b43d69f9cd1fbbe32a71efc06cd9ce",
+      "width": 768,
+      "height": 512
+    },
+    {
+      "file": "images/small/recruitment.webp",
+      "bytes": 41812,
+      "sha256": "eb2eefce34bdab6825e1d56e6f171580ef5dae2642745f1cc6447982e87983fc",
+      "width": 768,
+      "height": 512
+    },
+    {
+      "file": "images/small/sales-strategy.webp",
+      "bytes": 51472,
+      "sha256": "56e5aadd0836b1a6e056f06e11b4272930628cae6297d5abe929f79eb3f42b26",
+      "width": 768,
+      "height": 512
+    },
+    {
+      "file": "images/small/sales-training.webp",
+      "bytes": 49414,
+      "sha256": "baaceda9926adedd61ea0495cbf7811a157e0c3388b125c6c52333c86488a88e",
+      "width": 768,
+      "height": 512
+    },
+    {
+      "file": "programmes/foundational-selling.svg",
+      "bytes": 10195,
+      "sha256": "1703fb8e0ca2d76ee2a39f7c9a1cfbeeec127d38dbde3f5f570992c14c4c80b1"
+    },
+    {
+      "file": "programmes/foundational-selling.webp",
+      "bytes": 20550,
+      "sha256": "079b821b519370d10216d1508473be6a4af1d0476ff5cfe729f809b3bddc3c75",
+      "width": 1000,
+      "height": 1200
+    },
+    {
+      "file": "programmes/frontline-practitioner.svg",
+      "bytes": 10763,
+      "sha256": "ebad518508ddda6f5b47bc0d4a4fb33e1bec60d83b9db1a12bbf5d309e2ac1cd"
+    },
+    {
+      "file": "programmes/frontline-practitioner.webp",
+      "bytes": 21272,
+      "sha256": "8302f8eb588950373ca891f844c805c0a3e8d3d411dc9abbbe37d5def6af2862",
+      "width": 1000,
+      "height": 1200
+    },
+    {
+      "file": "programmes/launch-lab.svg",
+      "bytes": 8581,
+      "sha256": "e25a8fccfa764ab93fdef1db845726d8fd682540c6eea7c08508792fbc49bdb2"
+    },
+    {
+      "file": "programmes/launch-lab.webp",
+      "bytes": 17904,
+      "sha256": "7cd806dbec9302b974c02595ca44869c857e42e7d21109cb4fc8cb4ca98333c5",
+      "width": 1000,
+      "height": 1200
+    },
+    {
+      "file": "programmes/sales-leadership.svg",
+      "bytes": 10398,
+      "sha256": "45d9802cb02b9b76eaaa47823957dc9ee0a7f0084cd973b01a52702a71b531a6"
+    },
+    {
+      "file": "programmes/sales-leadership.webp",
+      "bytes": 21408,
+      "sha256": "332752c5c13ac4877a9c05302b96ff4eb5300c46a7a474116c7c62d3b37c147d",
+      "width": 1000,
+      "height": 1200
+    },
+    {
+      "file": "social/social-preview-1200x630.jpg",
+      "bytes": 68084,
+      "sha256": "34e9726172b7dff77deb6d52a4c2dd18f576c07fb15d4ecbd050a7d0c6aed7e3",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "file": "social/social-square-1080.jpg",
+      "bytes": 88945,
+      "sha256": "09837c3bf8edd8cdeb980bddd6433093b3d549efbaee55be888156cb1749849a",
+      "width": 1080,
+      "height": 1080
+    }
+  ]
+}

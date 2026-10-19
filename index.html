@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en-UG">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ABC Sales Consulting (concept) · Sales training and advisory in Kampala</title>
+    <meta name="description" content="An independent website redesign concept for ABC Sales Consulting, Kampala: Sales Ladder programmes, team training, advisory, audits and careers. All forms are demonstrations; not affiliated with ABC." />
+    <meta name="theme-color" content="#F6F2E9" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="ABC Sales Consulting, independent website concept" />
+    <meta property="og:title" content="ABC Sales Consulting: Built for the next level (independent concept)" />
+    <meta property="og:description" content="An independent redesign concept for ABC Sales Consulting. Programmes, team services and demo journeys; nothing is submitted." />
+    <meta property="og:url" content="%VITE_SITE_URL%/" />
+    <meta property="og:image" content="%VITE_SITE_URL%/og-image.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="ABC Sales Consulting wordmark and the line Built for the next level beside three professionals at a meeting table, labelled independent design concept" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script>
+      // Homepage only: preload the one hero this device will show, and hold the headline
+      // lines until the entrance timeline takes over. The timer reveals them if animation
+      // never starts. Buttons and navigation are never hidden.
+      if (location.pathname === '/') {
+        var heroes = [['(min-width: 768px)', '/images/hero-desktop-960.webp 960w, /images/hero-desktop-1536.webp 1536w'], ['(max-width: 767px)', '/images/hero-mobile-480.webp 480w, /images/hero-mobile-800.webp 800w']]
+        heroes.forEach(function (hero) {
+          var link = document.createElement('link')
+          link.rel = 'preload'; link.as = 'image'; link.media = hero[0]; link.setAttribute('imagesrcset', hero[1]); link.setAttribute('imagesizes', '100vw'); link.setAttribute('fetchpriority', 'high')
+          document.head.appendChild(link)
+        })
+        if (!matchMedia('(prefers-reduced-motion: reduce)').matches) {
+          document.documentElement.classList.add('hero-pending')
+          setTimeout(function () { document.documentElement.classList.remove('hero-pending') }, 2500)
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript><p style="padding:24px;font-family:sans-serif">This ABC Sales Consulting concept is interactive and needs JavaScript. The official website is at abcsalesconsulting.net.</p></noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
